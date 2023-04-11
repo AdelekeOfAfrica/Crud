@@ -27,3 +27,5 @@ install node.js<br />
 cd frontend<br /> 
 npm install<br />
 npm run dev<br />
+click on the books link<br> 
+
