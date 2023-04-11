@@ -15,6 +15,8 @@ composer require laravel/breeze --dev<br />
 
 php artisan breeze:install (FOR THIS SELECT THE API INSTALL)<br />
 
+php artisan db:seed (a factory has already been created for books)<br />
+
 php artisan serve<br />
 ![crud 2](https://user-images.githubusercontent.com/98800594/231281092-ea024cbd-2d55-4193-a7b1-d385be7db37d.JPG)
 
